@@ -1,2 +1,3 @@
 "some teext in this file" 
 "new line in text" 
+Лень писать на английском привет русский 
